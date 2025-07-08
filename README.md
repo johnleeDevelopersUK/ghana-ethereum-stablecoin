@@ -30,3 +30,12 @@ To position Ghana as a leader in blockchain innovation by ensuring inclusive, st
 
 ## 📂 Repository Structure
 
+ghana-ethereum-stablecoin/
+├── contracts/ # Smart contracts (Solidity)
+├── frontend/ # DApp frontend (React + Tailwind)
+├── backend/ # API + off-chain services (Node.js)
+├── docs/ # Whitepaper, tokenomics, compliance
+├── scripts/ # Deployment & tooling
+├── config/ # Chain IDs, roles, addresses
+├── .env.example # Environment variable template
+├── README.md # You're here
