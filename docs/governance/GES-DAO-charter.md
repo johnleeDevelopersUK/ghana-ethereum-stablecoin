@@ -1,0 +1,3 @@
+# GES DAO Charter
+
+- ...charter details...

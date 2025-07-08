@@ -1,0 +1,3 @@
+#!/bin/bash
+# Genesis bootstrapping script
+# ...script logic...

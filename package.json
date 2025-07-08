@@ -1,0 +1,12 @@
+{
+  "name": "ghana-ethereum-stablecoin",
+  "private": true,
+  "workspaces": [
+    "contracts",
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "postinstall": "echo Monorepo dependencies installed"
+  }
+}
